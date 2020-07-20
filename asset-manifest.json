@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Epidemic-Simulator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Epidemic-Simulator/static/js/main.d660617c.chunk.js",
-    "main.js.map": "/Epidemic-Simulator/static/js/main.d660617c.chunk.js.map",
-    "runtime-main.js": "/Epidemic-Simulator/static/js/runtime-main.f502dd96.js",
-    "runtime-main.js.map": "/Epidemic-Simulator/static/js/runtime-main.f502dd96.js.map",
-    "static/js/2.df5e37c8.chunk.js": "/Epidemic-Simulator/static/js/2.df5e37c8.chunk.js",
-    "static/js/2.df5e37c8.chunk.js.map": "/Epidemic-Simulator/static/js/2.df5e37c8.chunk.js.map",
-    "index.html": "/Epidemic-Simulator/index.html",
-    "precache-manifest.eaec6a9c48609e872ca31afe0c80ea5f.js": "/Epidemic-Simulator/precache-manifest.eaec6a9c48609e872ca31afe0c80ea5f.js",
-    "service-worker.js": "/Epidemic-Simulator/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Epidemic-Simulator/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.df5e37c8.chunk.js.LICENSE.txt": "/Epidemic-Simulator/static/js/2.df5e37c8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Epidemic-Simulator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Pandemic-Simulator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Pandemic-Simulator/static/js/main.6c691ce4.chunk.js",
+    "main.js.map": "/Pandemic-Simulator/static/js/main.6c691ce4.chunk.js.map",
+    "runtime-main.js": "/Pandemic-Simulator/static/js/runtime-main.bb355a93.js",
+    "runtime-main.js.map": "/Pandemic-Simulator/static/js/runtime-main.bb355a93.js.map",
+    "static/js/2.3ad9defe.chunk.js": "/Pandemic-Simulator/static/js/2.3ad9defe.chunk.js",
+    "static/js/2.3ad9defe.chunk.js.map": "/Pandemic-Simulator/static/js/2.3ad9defe.chunk.js.map",
+    "index.html": "/Pandemic-Simulator/index.html",
+    "precache-manifest.581ed9caa25b27c6a97502651415a78e.js": "/Pandemic-Simulator/precache-manifest.581ed9caa25b27c6a97502651415a78e.js",
+    "service-worker.js": "/Pandemic-Simulator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Pandemic-Simulator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ad9defe.chunk.js.LICENSE.txt": "/Pandemic-Simulator/static/js/2.3ad9defe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Pandemic-Simulator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f502dd96.js",
-    "static/js/2.df5e37c8.chunk.js",
+    "static/js/runtime-main.bb355a93.js",
+    "static/js/2.3ad9defe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d660617c.chunk.js"
+    "static/js/main.6c691ce4.chunk.js"
   ]
 }
