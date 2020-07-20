@@ -1,6 +1,6 @@
 {
-  "homepage": "http://andrewanddrew.github.io/Epidemic-Simulator",
-  "name": "epidemic-simulator",
+  "homepage": "http://andrewanddrew.github.io/Pandemic-Simulator",
+  "name": "pandemic-simulator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
